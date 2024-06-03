@@ -13,7 +13,7 @@
                 <a href="{% url 'edit_task' task.id %}" class="btn btn-primary">Edit</a>
                 <a href="{% url 'delete_task' task.id %}" class="btn btn-danger">Delete</a>
                 {% else %}
-                <span class="badge badge-success">Completed</span>
+                <span class="btn btn-success">Completed</span>
                 {% endif %}
             </div>
         </div>
