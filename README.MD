@@ -1,3 +1,3 @@
 ### OUTPUT
 
-<img src="output.png">
+<img src="outputProject.png">
