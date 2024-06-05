@@ -1,3 +1,5 @@
 ### OUTPUT
 
-<img src="outputProject.png">
+<img src="home.png">
+<img src="add_task.png">
+<img src="catagory.png">
